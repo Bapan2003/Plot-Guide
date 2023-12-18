@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plot Guide</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="YOUR_API_KEY">AIzaSyCjcrfLH8cbBTreXQ6l_ZcvK4Y5sv9hxIk</string>
+</resources>
